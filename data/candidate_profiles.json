@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "cp_1",
+    "userId": "usr_candidate_1",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "System Design",
+      "Redis"
+    ],
+    "github": "https://github.com/alexrivera-dev",
+    "linkedin": "https://linkedin.com/in/alex-rivera-tech",
+    "experienceYears": 6,
+    "education": "B.S. in Computer Science, UC Berkeley",
+    "bio": "Passionate about distributed web platforms, high-throughput microservices, and slick React architectures.",
+    "createdAt": "2026-09-27T09:09:20.888Z",
+    "updatedAt": "2026-09-27T09:09:20.888Z"
+  },
+  {
+    "userId": "id_1790500327514_is5sjjp",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React"
+    ],
+    "experienceYears": 2,
+    "education": "B.S. in Computer Science",
+    "_id": "id_1790500327515_1hwwfp4",
+    "createdAt": "2026-09-27T09:12:07.515Z",
+    "updatedAt": "2026-09-27T09:12:07.515Z"
+  }
+]

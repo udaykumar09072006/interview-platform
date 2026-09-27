@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "usr_admin_1",
+    "name": "Eleanor Vance",
+    "email": "admin@intervexa.com",
+    "passwordHash": "$2b$10$NxhI2Fgr10WX/L8yUnA1G.Kxjocc0MOGhiBWGw7Ruwsn.Q7RLD9RW",
+    "role": "admin",
+    "title": "Platform Administrator",
+    "company": "Intervexa Tech",
+    "status": "active",
+    "createdAt": "2026-09-27T09:09:20.887Z",
+    "updatedAt": "2026-09-27T09:09:20.887Z"
+  },
+  {
+    "_id": "usr_interviewer_1",
+    "name": "Sarah Chen",
+    "email": "interviewer@intervexa.com",
+    "passwordHash": "$2b$10$NxhI2Fgr10WX/L8yUnA1G.Kxjocc0MOGhiBWGw7Ruwsn.Q7RLD9RW",
+    "role": "interviewer",
+    "title": "Staff Software Architect",
+    "company": "Veloce Labs",
+    "status": "active",
+    "createdAt": "2026-09-27T09:09:20.888Z",
+    "updatedAt": "2026-09-27T09:09:20.888Z"
+  },
+  {
+    "_id": "usr_candidate_1",
+    "name": "Alex Rivera",
+    "email": "candidate@intervexa.com",
+    "passwordHash": "$2b$10$NxhI2Fgr10WX/L8yUnA1G.Kxjocc0MOGhiBWGw7Ruwsn.Q7RLD9RW",
+    "role": "candidate",
+    "title": "Senior Full Stack Engineer",
+    "company": "Candidate Pool",
+    "status": "active",
+    "createdAt": "2026-09-27T09:09:20.888Z",
+    "updatedAt": "2026-09-27T09:09:20.888Z"
+  },
+  {
+    "_id": "usr_candidate_2",
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "passwordHash": "$2b$10$NxhI2Fgr10WX/L8yUnA1G.Kxjocc0MOGhiBWGw7Ruwsn.Q7RLD9RW",
+    "role": "candidate",
+    "title": "Backend Systems Engineer",
+    "company": "Candidate Pool",
+    "status": "active",
+    "createdAt": "2026-09-27T09:09:20.888Z",
+    "updatedAt": "2026-09-27T09:09:20.888Z"
+  },
+  {
+    "name": "Uday Yadav",
+    "email": "udaykumar0907200635@gmail.com",
+    "passwordHash": "$2b$10$R497zCaKMdLuYa1K12f46.9CaZrY5vRR.54SFossW8M..Gw3WmPD6",
+    "role": "candidate",
+    "title": "Full Stack Candidate",
+    "company": "Open to Work",
+    "status": "active",
+    "_id": "id_1790500327514_is5sjjp",
+    "createdAt": "2026-09-27T09:12:07.514Z",
+    "updatedAt": "2026-09-27T09:12:07.514Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "problemId": "prob_two_sum",
+    "candidateId": "usr_candidate_1",
+    "candidateName": "Alex Rivera",
+    "language": "javascript",
+    "code": "function twoSum(nums, target) { const m = new Map(); for (let i = 0; i < nums.length; i++) { const c = target - nums[i]; if (m.has(c)) return [m.get(c), i]; m.set(nums[i], i); } return []; }",
+    "status": "Accepted",
+    "runtimeMs": 12,
+    "memoryKb": 16350,
+    "testCasesPassed": 5,
+    "totalTestCases": 5,
+    "output": "[2,4]",
+    "_id": "id_1790500173151_e7zubt0",
+    "createdAt": "2026-09-27T09:09:33.151Z",
+    "updatedAt": "2026-09-27T09:09:33.151Z"
+  }
+]

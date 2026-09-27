@@ -1,0 +1,11 @@
+{
+  "name": "Intervexa – Online Interview & Coding Platform",
+  "description": "Enterprise technical interview platform featuring live collaborative coding with Monaco editor, WebRTC video/audio, real-time question bank, and comprehensive candidate evaluation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
